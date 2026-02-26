@@ -142,7 +142,7 @@ header h1 {
         display: flex;
         justify-content: center;
     }
-    .quote div {
+    .quote .container {
         max-width: 800px;
         padding: 0 24px;
     }
